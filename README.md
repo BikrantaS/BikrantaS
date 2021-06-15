@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 
 [Click here to see my website](https://bikrantasarkar.netlify.app "Bikranta's website")
+
+
+
+![alt text](https://mpng.subpng.com/20190627/ttx/kisspng-javascript-computer-icons-scalable-vector-graphics-list-of-javascript-enhancements-fandom-developers-5d145895b06253.7824611015616144857225.jpg "Logo Title Text 1")
