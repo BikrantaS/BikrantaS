@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/python.svg "javascript")
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg "javascript")
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg "javascript")
- </p
+ </p>
 
 
 <!-- https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.
