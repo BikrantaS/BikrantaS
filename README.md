@@ -30,15 +30,14 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg "javascript")
 
 
-
-<!-- https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.
-https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg
-
-https://github.com/gilbarbara/logos/blob/master/logos/python.svg
-
-https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg
-
-https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg
- -->
-
+<p align="left">
+ <img src="https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/react.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" alt="angular" width="40" height="40"/>
+  <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="angular" width="40" height="40"/>
+ 
+ </p>
 
