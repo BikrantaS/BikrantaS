@@ -22,3 +22,9 @@ Here are some ideas to get you started:
 
 
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg "javascript")
+![alt text](https://github.com/gilbarbara/logos/blob/master/logos/react.svg "javascript")
+![alt text](https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg "javascript")
+
+
+
+
