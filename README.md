@@ -33,5 +33,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg" alt="git" width="50" height="50"/>
   <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg" alt="postman" width="50" height="50"/>
  
+ <img src="https://github.com/gilbarbara/logos/blob/master/logos/arduino.svg" alt="arduino" width="50" height="50"/>
+ 
  </p>
 
