@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [Click here to see my website](https://bikrantasarkar.netlify.app "Bikranta's website")
 
 
-<p>
+
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/javascript.svg "javascript")
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/react.svg "javascript")
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/nodejs-icon.svg "javascript")
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/python.svg "javascript")
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg "javascript")
 ![alt text](https://github.com/gilbarbara/logos/blob/master/logos/postman-icon.svg "javascript")
- </p>
+
 
 
 <!-- https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.
