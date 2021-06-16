@@ -36,4 +36,6 @@ Here are some ideas to get you started:
  <img src="https://github.com/gilbarbara/logos/blob/master/logos/arduino.svg" alt="arduino" width="50" height="50"/>
  
  </p>
-
+<marquee attribute_name = "attribute_value"....more attributes>
+   One or more lines or text message or image
+</marquee>
