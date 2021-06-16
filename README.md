@@ -36,4 +36,4 @@ Here are some ideas to get you started:
  <img src="https://github.com/gilbarbara/logos/blob/master/logos/arduino.svg" alt="arduino" width="50" height="50"/>
  
  </p>
-<marquee>This is basic example of marquee,This is basic example of marquee,This is basic example of marquee,This is basic example of marqueeThis is basic example of marqueeThis is basic example of marquee</marquee>
+
