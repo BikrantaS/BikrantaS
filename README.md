@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-[Click here to see my website](https://bikrantasarkar.netlify.app "Bikranta's website")
+[click here to see my portfolio](https://bikrantasarkar.netlify.app "Bikranta's website")
 
 
 <p align="left">
